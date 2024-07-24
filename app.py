@@ -60,7 +60,7 @@ def main():
     st.title('Health Prediction App')
     
     # Load and preprocess data
-    data = load_and_preprocess_data('MediSync Data.csv')
+    data = load_and_preprocess_data('MediSync.csv')
 
     # Display distributions
     st.subheader('Data Distributions')
