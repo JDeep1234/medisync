@@ -115,5 +115,5 @@ def main():
     st.sidebar.text('Developed by TEAM UNICORN')
     st.sidebar.text('LinkedIn | GitHub | Website')
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     main()
